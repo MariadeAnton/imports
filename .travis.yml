@@ -1,6 +1,6 @@
 language: ruby
 
 import:
-  - .travis/all-the-rubies.yml
-  - .travis/only-some-branches.yml
-  - .travis/publish-rubygem.yml
+  - ./.travis/all-the-rubies.yml
+  - ./.travis/only-some-branches.yml
+  - ./.travis/publish-rubygem.yml
